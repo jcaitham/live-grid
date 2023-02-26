@@ -1,0 +1,11 @@
+.gridControl .gridCell {
+  display: table-cell;
+  border: 1px solid black;
+  padding: 2px 5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.gridControl .gridCell.highlighted {
+  background-color: lightblue;
+}/*# sourceMappingURL=Grid.css.map */
